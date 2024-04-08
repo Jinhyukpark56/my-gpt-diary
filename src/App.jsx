@@ -41,7 +41,7 @@ function App() {
     <AppConatiner>
       {contextHolder}
       <AppTitle>
-        심리상담사 GPT, AI 회고록 <img width={"100px"} src={logo}></img>
+        GPT로 적어보는 Diary <img width={"100px"} src={logo}></img>
       </AppTitle>
       <DiaryInput
         messageApi={messageApi}
